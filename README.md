@@ -1,2 +1,2 @@
 # slack-clone
-### A simple slack clon
+### A simple slack clone
